@@ -20,4 +20,4 @@ SQL-based analysis of 949 LinkedIn job postings from the Indian job market — c
 - Communication is the top skill in 7 of 8 major cities — Chennai is the exception (Excel)
 
 ## Dashboard preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard/dashboard_preview.png)
